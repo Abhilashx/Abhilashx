@@ -1,12 +1,13 @@
-
+<!-- Abhilash sharma paras – DARK THEME PROFILE -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash+sharma+Paras;data analytics+%7C+AI+%26+LLM+Engineer;Btech(cse)+%26+%;+%26+%26+;%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash+sharma+paras;Data+Analyst+%7C+AI+%26+LLM+Engineer;+%26++%40+;+%26++%26+;+%7C++2%25" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" />
 </div>
+
 
 <br />
 
