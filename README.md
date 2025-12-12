@@ -25,7 +25,7 @@
 
 🎓 B.Tech in Computer Science & Engineering – Dr. A.P.J. Abdul Kalam Technical University
 
-💼 Former Data Analyst @ MeitY (Government of India)
+💼 Data Analyst @ MeitY (Government of India)
 
 🔭 Working on Speech Emotion Recognition, Smart Waste Classifier, and AI-powered systems
 
