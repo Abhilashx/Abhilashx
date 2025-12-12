@@ -1,7 +1,7 @@
-<!-- ARSH SONI – DARK THEME PROFILE -->
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash sharma Pras;data analytics+%7C+AI+%26+LLM+Engineer;Btech(cse)+%26+%;+%26+%26+;%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash+sharma+Paras;data analytics+%7C+AI+%26+LLM+Engineer;Btech(cse)+%26+%;+%26+%26+;%25" alt="Typing SVG" />
 </div>
 
 <div align="center">
