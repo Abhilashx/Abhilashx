@@ -1,7 +1,7 @@
 <!-- Abhilash sharma paras – DARK THEME PROFILE -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash+sharma+paras;+%7C+Data+Analyst+%26+AI+Engineer;+%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhilash+sharma+paras;+%7C+Data+Analyst+%26+AI+Engineer;+" alt="Typing SVG" />
 </div>
 
 <div align="center">
