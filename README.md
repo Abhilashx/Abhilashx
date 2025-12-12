@@ -21,15 +21,20 @@
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
-## 🙋‍♂️ About Me
+🙋‍♂️ About Me
 
-- 🎓 **M.Sc in Mathematics & Computing** – IIT ISM Dhanbad  
-- 💼 Former **Data Scientist @ MeitY (Government of India)**  
-- 🔭 Working on **AI Agents & Chatbots** with **LangChain & LangGraph**  
-- 🤖 Interested in **LLMs, RAG systems & Generative AI**  
-- 🛡️ **Cybersecurity hobbyist** – Top 2% on [TryHackMe](https://tryhackme.com/p/cybarsh)  
-- ✍️ Writing on **[Medium](https://medium.com/@cybwarrior00)**  
-- 📧 **arshsoni2002@gmail.com**
+🎓 B.Tech in Computer Science & Engineering – Dr. A.P.J. Abdul Kalam Technical University
+
+💼 Former Data Analyst @ MeitY (Government of India)
+
+🔭 Working on Speech Emotion Recognition, Smart Waste Classifier, and AI-powered systems
+
+🤖 Interested in LLMs, RAG systems, Generative AI, and Deployments (GCP/AWS)
+
+📊 Strong with Data Analytics & Power BI, SQL, Python and ETL workflows
+
+
+📧 Contact: (abhilashsharma425@gmail.com)
 
 <br clear="right" />
 
