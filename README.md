@@ -98,15 +98,6 @@
 
 
 
-## 📊 Fake GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhilashx/Abhilashx/main/fake_github_stats.png" width="600" />
-</p>
-
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
