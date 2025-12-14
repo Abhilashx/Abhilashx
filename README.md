@@ -102,9 +102,9 @@
 
 
 ## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
+<!-- MAIN STATS + STREAK -->
 <div align="center">
 
   <!-- Main GitHub Stats -->
@@ -113,21 +113,46 @@
 
   <!-- Streak Stats -->
   <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashx&theme=tokyonight&hide_border=true&v=2" />
+       src="https://streak-stats.demolab.com?user=Abhilashx&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br>
+
+<!-- TOP LANGUAGES -->
 <p align="center">
-  <!-- Top Languages -->
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashx&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
-  <!-- Top Languages -->
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashx&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+---
 
-</div>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhilashx&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashx&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🟦 3D Contribution Chart
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-night-rainbow.svg" width="800" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
