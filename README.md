@@ -98,33 +98,12 @@
 
 
 
-from PIL import Image, ImageDraw, ImageFont
+## 📊 Fake GitHub Stats
 
-# Create image
-img = Image.new("RGB", (800, 450), color=(20, 20, 20))
-draw = ImageDraw.Draw(img)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhilashx/Abhilashx/main/fake_github_stats.png" width="600" />
+</p>
 
-# Title
-draw.text((250, 20), "Fake GitHub Stats", fill="cyan")
-
-# Fake Stats
-stats = [
-    ("Total Commits:", "1,254"),
-    ("Total Repos:", "32"),
-    ("Pull Requests:", "48"),
-    ("Stars Received:", "190"),
-    ("Followers:", "120"),
-    ("Following:", "45"),
-]
-
-y = 100
-for label, value in stats:
-    draw.text((80, y), f"{label} {value}", fill="white")
-    y += 50
-
-# Save file
-path = "/mnt/data/fake_github_stats.png"
-img.save(path)
 
 
 
