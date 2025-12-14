@@ -40,14 +40,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,tensorflow,pytorch,git,mysql,matlab,vscode,docker&theme=dark" />
 </p>
-
-| 🧮 AI / ML | 🦜 LLM & Agents | 🛡️ Cyber (Fun) |
-|---|---|---|
-| Python, NumPy, Pandas | LangChain, LangGraph | TryHackMe (Top 2%) |
-| TensorFlow, PyTorch | OpenAI / GPT | Kali Linux |
-| Scikit-learn, Seaborn | RAG, Chatbots | Wireshark |
-
----
+🧮 Data Analytics	🤖 AI / ML	💻 Tools
+Python, NumPy, Pandas	Model Training & Evaluation	Git, GitHub
+SQL (Queries, Joins, Optimization)	Scikit-learn, Feature Engineering	AWS, Apache
+Power BI (DAX, Reports)	Data Preprocessing, ETL	VS Code, Linux
+Excel (Advanced)	Basic ML Algorithms	Docker, MySQL, PostgreSQL
+Power BI (DAX, Reports)	Scikit-learn, Feature Engineering	VS Code, Linux
+Excel (Advanced)	Data Preprocessing, ETL	MySQL, PostgreSQL
+SQL (Queries, Joins, Optimization)	Basic ML Algorithms	Docker, APIs
 
 ## 📊 GitHub Stats
 
