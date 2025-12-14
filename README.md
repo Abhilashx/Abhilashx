@@ -103,15 +103,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhilashx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilash_sharmax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash_sharmax&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash_sharmax&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 
 ## 🌐 Connect With Me
