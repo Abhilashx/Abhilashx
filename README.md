@@ -99,9 +99,22 @@
 
 
 
+import matplotlib.pyplot as plt
+
+tools = ["Python","SQL","Power BI","Excel","Docker","AWS","Airflow","Spark"]
+values = [90,80,75,70,60,65,55,50]
+
+plt.figure(figsize=(8,5))
+plt.bar(tools, values)
+plt.xticks(rotation=45, ha='right')
+plt.ylabel("Skill Level (%)")
+plt.title("Fake Skill Graph Based on Tools")
+plt.tight_layout()
+
+plt.savefig('fake_stats.png')
 
 
-## 📊 GitHub Stats
+
 ## 📊 GitHub Stats
 
 <p align="center">
