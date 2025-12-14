@@ -36,19 +36,6 @@
 ---
 
 ## 🧠 Tech Stack
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhilashx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
-</div>
 ## 🧠 Tech Stack
 
 <!-- Icons Row -->
@@ -93,7 +80,25 @@
   </tr>
 </table>
 
----
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhilashx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</div>
+## 🧠 Tech Stack
+
+<!-- Icons Row -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,powerbi,excel,linux,git,github,vscode,docker,aws&theme=dark" />
+</p>
+
 
 ## 🌐 Connect With Me
 
