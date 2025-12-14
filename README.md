@@ -64,6 +64,52 @@
   <a href="https://github.com/Abhilashx">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+## 🧠 Tech Stack  
+
+<p align="center">
+  <!-- Icons Row -->
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,linux,powerbi,excel,git,github,vscode,docker,aws,apache&theme=dark" />
+</p>
+
+<!-- Skill Cards Layout -->
+<table align="center">
+  <tr>
+    <!-- Data Analytics -->
+    <td width="33%" valign="top">
+      <h3>📊 Data Analytics</h3>
+      <ul>
+        <li>Python, NumPy, Pandas</li>
+        <li>SQL (MySQL, PostgreSQL)</li>
+        <li>Power BI (DAX, Reporting)</li>
+        <li>Excel (Advanced)</li>
+        <li>Data Cleaning & ETL</li>
+      </ul>
+    </td>
+
+    <!-- AI / ML -->
+    <td width="33%" valign="top">
+      <h3>🤖 AI / ML</h3>
+      <ul>
+        <li>Model Training & Evaluation</li>
+        <li>Scikit-learn, Feature Engineering</li>
+        <li>Basic ML Algorithms</li>
+        <li>TensorFlow, PyTorch (Basics)</li>
+      </ul>
+    </td>
+
+    <!-- Tools -->
+    <td width="33%" valign="top">
+      <h3>🛠️ Tools</h3>
+      <ul>
+        <li>Git, GitHub</li>
+        <li>VS Code, Linux</li>
+        <li>AWS (Cloud Basics)</li>
+        <li>Apache (Big Data Tools)</li>
+        <li>Docker, APIs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
  
   </a>
   <a href="https://www.instagram.com/abhilash._sharma/?hl=en">
