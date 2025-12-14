@@ -46,7 +46,7 @@
 <td valign="top" width="33%">
 
 #### 🧮 Data Analytics
-- Python, NumPy, Pandas  
+- C,Python, NumPy, Pandas  
 - SQL (MySQL, PostgreSQL)  
 - Power BI (DAX, Dashboarding)  
 - Excel (Advanced)  
@@ -57,7 +57,7 @@
 <td valign="top" width="33%">
 
 #### 🤖 AI / ML
-- Model Training & Evaluation  
+- Model Training & Evaluation ,Jupyter Notebook,OpenCV
 - Scikit-learn, Feature Engineering  
 - Basic ML Algorithms  
 - TensorFlow, PyTorch (Basics)  
