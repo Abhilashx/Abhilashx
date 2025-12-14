@@ -38,47 +38,7 @@
 ## 🧠 Tech Stack
 ## 🧠 Tech Stack
 
-<!-- Icons Row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,powerbi,excel,linux,git,github,vscode,docker,aws&theme=dark" />
-</p>
 
-<!-- Tech Columns -->
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>📊 Data Analytics</h4>
-      <ul>
-        <li>Python, NumPy, Pandas</li>
-        <li>SQL (MySQL, PostgreSQL)</li>
-        <li>Power BI (DAX, Reports)</li>
-        <li>Excel (Advanced)</li>
-        <li>ETL, Data Cleaning</li>
-      </ul>
-    </td>
-    
-    <td valign="top" width="33%">
-      <h4>🤖 AI / ML</h4>
-      <ul>
-        <li>Model Training & Evaluation</li>
-        <li>Scikit-learn, Feature Engineering</li>
-        <li>Basic ML Algorithms</li>
-        <li>TensorFlow, PyTorch (Basics)</li>
-      </ul>
-    </td>
-    
-    <td valign="top" width="33%">
-      <h4>🛠️ Tools</h4>
-      <ul>
-        <li>Git, GitHub</li>
-        <li>VS Code, Linux</li>
-        <li>AWS (Cloud Basics)</li>
-        <li>Apache Tools</li>
-        <li>Docker, APIs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -92,12 +52,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
-## 🧠 Tech Stack
 
-<!-- Icons Row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,powerbi,excel,linux,git,github,vscode,docker,aws&theme=dark" />
-</p>
 
 
 ## 🌐 Connect With Me
