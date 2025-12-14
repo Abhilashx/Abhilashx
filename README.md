@@ -107,13 +107,21 @@
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=abhilashx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=1" />
+  <!-- Main GitHub Stats -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Abhilashx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
 
   <!-- Streak Stats -->
-  <img height="170" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashx&theme=tokyonight&hide_border=true&v=1" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashx&theme=tokyonight&hide_border=true&v=2" />
+
+</div>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashx&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+</p>
 
   <!-- Top Languages -->
   <img height="170" 
