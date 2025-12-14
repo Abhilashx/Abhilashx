@@ -98,20 +98,33 @@
 
 
 
+from PIL import Image, ImageDraw, ImageFont
 
-import matplotlib.pyplot as plt
+# Create image
+img = Image.new("RGB", (800, 450), color=(20, 20, 20))
+draw = ImageDraw.Draw(img)
 
-tools = ["Python","SQL","Power BI","Excel","Docker","AWS","Airflow","Spark"]
-values = [90,80,75,70,60,65,55,50]
+# Title
+draw.text((250, 20), "Fake GitHub Stats", fill="cyan")
 
-plt.figure(figsize=(8,5))
-plt.bar(tools, values)
-plt.xticks(rotation=45, ha='right')
-plt.ylabel("Skill Level (%)")
-plt.title("Fake Skill Graph Based on Tools")
-plt.tight_layout()
+# Fake Stats
+stats = [
+    ("Total Commits:", "1,254"),
+    ("Total Repos:", "32"),
+    ("Pull Requests:", "48"),
+    ("Stars Received:", "190"),
+    ("Followers:", "120"),
+    ("Following:", "45"),
+]
 
-plt.savefig('fake_stats.png')
+y = 100
+for label, value in stats:
+    draw.text((80, y), f"{label} {value}", fill="white")
+    y += 50
+
+# Save file
+path = "/mnt/data/fake_github_stats.png"
+img.save(path)
 
 
 
