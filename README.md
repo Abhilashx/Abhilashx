@@ -37,16 +37,25 @@
 
 ## 🧠 Tech Stack
 
+<!-- ========== ICON ROW 1 ========== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,sql,mysql,postgres,powerbi,tableau,excel,linux,git,github,vscode,docker,aws,airflow,spark,jupyter,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,opencv&theme=dark" />
 </p>
 
+<!-- ========== ICON ROW 2 ========== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,aws&theme=dark" />
+</p>
+
+
+<!-- ========== THREE COLUMN LAYOUT ========== -->
 <table align="center">
 <tr>
 
+<!-- Data Analytics -->
 <td valign="top" width="33%">
 
-#### 🧮 Data Analytics
+#### 📕 Data Analytics
 - C, Python, NumPy, Pandas  
 - SQL (MySQL, PostgreSQL)  
 - Power BI (DAX, Dashboarding)  
@@ -56,9 +65,10 @@
 
 </td>
 
+<!-- AI/ML -->
 <td valign="top" width="33%">
 
-#### 🤖 AI / ML
+#### 📘 AI / ML
 - Model Training & Evaluation  
 - Jupyter Notebook  
 - OpenCV  
@@ -68,9 +78,10 @@
 
 </td>
 
+<!-- Tools -->
 <td valign="top" width="33%">
 
-#### 🛠️ Tools
+#### 📗 Tools
 - Git, GitHub  
 - VS Code, Linux  
 - AWS (Cloud Basics)  
