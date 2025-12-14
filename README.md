@@ -36,8 +36,9 @@
 ---
 
 ## 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,powerbi,excel,linux,git,github,vscode,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,sql,mysql,postgres,powerbi,tableau,excel,linux,git,github,vscode,docker,aws,airflow,spark,jupyter,opencv&theme=dark" />
 </p>
 
 <table align="center">
@@ -46,9 +47,10 @@
 <td valign="top" width="33%">
 
 #### 🧮 Data Analytics
-- C,Python, NumPy, Pandas  
+- C, Python, NumPy, Pandas  
 - SQL (MySQL, PostgreSQL)  
 - Power BI (DAX, Dashboarding)  
+- Tableau (BI)  
 - Excel (Advanced)  
 - ETL, Data Cleaning  
 
@@ -57,7 +59,9 @@
 <td valign="top" width="33%">
 
 #### 🤖 AI / ML
-- Model Training & Evaluation ,Jupyter Notebook,OpenCV
+- Model Training & Evaluation  
+- Jupyter Notebook  
+- OpenCV  
 - Scikit-learn, Feature Engineering  
 - Basic ML Algorithms  
 - TensorFlow, PyTorch (Basics)  
@@ -70,7 +74,8 @@
 - Git, GitHub  
 - VS Code, Linux  
 - AWS (Cloud Basics)  
-- Apache Tools  
+- Apache Airflow (ETL)  
+- Apache Spark (Big Data)  
 - Docker, APIs  
 
 </td>
@@ -79,6 +84,7 @@
 </table>
 
 ---
+
 
 
 
